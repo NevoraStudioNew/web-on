@@ -1,0 +1,28 @@
+[
+  {
+    "id": "4e07ca02-34c5-4ce8-a650-d085a89bb736",
+    "reviewer": {
+      "id": "e9b18fd31b36",
+      "name": "Developer e9b18f"
+    },
+    "rating": 5,
+    "comment": "",
+    "reply": null,
+    "replied_at": null,
+    "created_at": "2026-11-14T12:46:57.759417+00:00",
+    "updated_at": "2026-11-14T12:46:57.759417+00:00"
+  },
+  {
+    "id": "f0f3f60a-a2f3-4b78-894a-dbb114fc352c",
+    "reviewer": {
+      "id": "4da2f9edf7ee",
+      "name": "Developer 4da2f9"
+    },
+    "rating": 5,
+    "comment": "Bagus, Free Domain🤩🤩.",
+    "reply": "lebih tepatnya subdomain",
+    "replied_at": "2026-11-16T01:30:19.141+00:00",
+    "created_at": "2026-11-14T11:56:48.462948+00:00",
+    "updated_at": "2026-11-16T01:30:19.754285+00:00"
+  }
+]
