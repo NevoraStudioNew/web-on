@@ -1,0 +1,54 @@
+[
+  {
+    "id": "f18610cd-ad92-42c7-9346-e122271508b0",
+    "reviewer": {
+      "id": "f9517353ac1a",
+      "name": "Developer f95173"
+    },
+    "rating": 5,
+    "comment": "Keren sih",
+    "reply": "Makasi Kakak",
+    "replied_at": "2026-11-16T01:28:25.215+00:00",
+    "created_at": "2026-11-15T14:30:16.077744+00:00",
+    "updated_at": "2026-11-16T01:28:25.828286+00:00"
+  },
+  {
+    "id": "e7e715c6-d4f0-4ca4-bff1-717b48dbec8a",
+    "reviewer": {
+      "id": "c6a27f535ef3",
+      "name": "Developer c6a27f"
+    },
+    "rating": 5,
+    "comment": "",
+    "reply": null,
+    "replied_at": null,
+    "created_at": "2026-11-14T11:48:51.661163+00:00",
+    "updated_at": "2026-11-15T05:38:40.902233+00:00"
+  },
+  {
+    "id": "5924fbd4-5730-4651-a5c8-ffa829e6fc9a",
+    "reviewer": {
+      "id": "144f405aed55",
+      "name": "Developer 144f40"
+    },
+    "rating": 1,
+    "comment": "",
+    "reply": null,
+    "replied_at": null,
+    "created_at": "2026-11-12T22:05:37.700091+00:00",
+    "updated_at": "2026-11-12T22:05:37.700091+00:00"
+  },
+  {
+    "id": "08eadc94-9347-4a2f-9888-cc31b588c5a9",
+    "reviewer": {
+      "id": "f3e42ce19623",
+      "name": "Developer f3e42c"
+    },
+    "rating": 5,
+    "comment": "Jujur ini bagus bgt",
+    "reply": null,
+    "replied_at": null,
+    "created_at": "2026-11-11T11:16:59.835936+00:00",
+    "updated_at": "2026-11-12T10:33:05.397814+00:00"
+  }
+]
